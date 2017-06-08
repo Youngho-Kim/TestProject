@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- path = /External Storage/CameraN 가 된다 -->
+    <!-- name = content:// 로 시작하는 uri 주소체계의 suffix 가된다 -->
+    <external-path name="Camera" path="CameraN" />
+</PreferenceScreen>
